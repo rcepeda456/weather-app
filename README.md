@@ -1,5 +1,5 @@
 # weather-app
-weather app that provides information depending the location the userInput
+weather app that provides information depending the location the userInput(if the userInputs an incorrect statement the code will throw an error)
 
 download folder
 
