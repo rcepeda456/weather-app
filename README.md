@@ -20,6 +20,6 @@ into the folder
 then 
 
 
-npm run
+npm start
 
 
